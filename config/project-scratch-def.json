@@ -2,6 +2,7 @@
   "orgName": "vscode-test-debug-demo",
   "adminEmail": "sfdx@mailinator.com",
   "edition": "Developer",
+  "features": ["EnableSetPasswordInApi"],
   "settings": {
     "communitiesSettings": {
       "enableNetworksEnabled": false
@@ -12,13 +13,6 @@
     "pathAssistantSettings": {
       "pathAssistantEnabled": true
     },
-    "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false
-    },
-    "securitySettings": {
-      "passwordPolicies": {
-        "enableSetPasswordInApi": true
-      }
-    }
+    "mobileSettings": { "enableS1EncryptedStoragePref2": false }
   }
-}
+}  
