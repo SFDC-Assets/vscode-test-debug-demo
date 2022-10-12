@@ -13,6 +13,8 @@
     "pathAssistantSettings": {
       "pathAssistantEnabled": true
     },
-    "mobileSettings": { "enableS1EncryptedStoragePref2": false }
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
   }
-}  
+}
